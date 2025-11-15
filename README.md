@@ -91,9 +91,4 @@ The primary goal is to identify **patterns and correlations among tumor features
 - Develop **real-time dashboards** for clinical decision support.  
 - Incorporate **privacy-preserving analytics** for healthcare compliance.  
 
----
 
-## 🚀 How to Run
-1. Install required tools:
-   ```bash
-   pip install pyspark pandas matplotlib seaborn
